@@ -1,4 +1,7 @@
-### Hi there 👋
+Greetings my name is Noah Melber, and I am in my second semester of Northampton Community College. I work a part time job and have full time classes.
+I like to work with computers and have an interest in programming, python is the language I know best and I look forward to learning more and applying them.
+
+
 
 <!--
 **NMelber/NMelber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
